@@ -76,6 +76,37 @@ Result: A stable, internally managed, production-ready multilingual platform.
 
 ---
 
+---
+
+## Platform Evolution
+
+### Before
+
+The homepage and structural layout relied on default theme elements and contained placeholder sections not aligned with the initiative’s analytical focus.
+
+- Template-based layout with limited editorial prioritization
+- Inconsistent multilingual presentation
+- Non-functional or partially functional navigation elements
+- Generic theme styling without strong visual differentiation between content categories
+- Lack of structured homepage integration of Dialogue and Analysis sections
+
+![Homepage Before](screenshots/before/before-home.png)
+
+---
+
+### After
+
+The homepage was fully restructured into a purpose-driven editorial interface reflecting the initiative’s mission and content priorities.
+
+- Integrated latest publications from Dialogue and Analysis sections directly into homepage feed
+- Implemented color-coded category badges to strengthen visual identity recognition
+- Removed template placeholders and non-relevant theme blocks
+- Introduced structured content grid and improved visual hierarchy
+- Refined spacing and layout for a cleaner, more professional presentation
+- Ensured fully functional internal routing and multilingual consistency
+
+![Homepage After](screenshots/after/after-home.png)
+
 ## Brand Identity Development
 
 The visual identity was developed prior to the technical restructuring phase.
