@@ -37,6 +37,24 @@ The platform transitioned from partially dysfunctional and externally dependent 
 
 ---
 
+## Information Architecture & Content Structure
+
+The restructuring phase included a full review and refinement of the platform’s information architecture to ensure logical hierarchy, content clarity, and cross-platform consistency.
+
+Key architectural improvements:
+
+- Reorganized primary navigation to clearly reflect core initiative pillars (Dialogue / Analysis)
+- Established structured content taxonomy aligned with editorial priorities
+- Integrated latest publications dynamically into homepage layout for improved visibility
+- Removed template-based placeholder sections and redundant theme blocks
+- Standardized internal linking logic across sections
+- Improved content discoverability through visual categorization and color-coded badges
+- Ensured multilingual consistency in navigation and structural hierarchy
+- Preserved intentional cross-platform routing for extended archival and expert materials hosted within affiliated initiative platforms
+- Maintained clear separation between locally hosted editorial content and externally hosted program archives within the partner ecosystem
+
+---
+
 ## Scope of Ownership
 
 - Full brand identity redevelopment
@@ -73,8 +91,6 @@ The platform transitioned from partially dysfunctional and externally dependent 
 - Standardized backend content organization
 
 Result: A stable, internally managed, production-ready multilingual platform.
-
----
 
 ---
 
