@@ -32,7 +32,7 @@ The platform transitioned from partially dysfunctional and externally dependent 
 ## Scope of Ownership
 
 - Full brand identity redevelopment
-- Logo concept design inspired by the “Line of Contact” dialogue theme
+- Logo concept design (see more about visual identity on the Behance link below)
 - Strategic modernization of legacy visual elements
 - Complete reconstruction of Home, About, and Contact pages
 - Internal navigation logic rebuild
@@ -75,7 +75,7 @@ The visual identity was developed prior to the technical restructuring phase.
 The new logo concept reflects dialogue, balance, and cross-border communication, modernizing legacy elements while preserving conceptual continuity with the initiative’s mission.
 
 Full visual case study available on Behance:  
-[Insert your Behance link here]
+(https://www.behance.net/gallery/242132579/Press-Clubs-TV-Logo-Visual-Identity)
 
 ---
 
