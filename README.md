@@ -1,4 +1,10 @@
 # PressClubs.tv – End-to-End Platform Redevelopment & Brand Transformation
+![Status](https://img.shields.io/badge/Status-Production-green)
+![Platform](https://img.shields.io/badge/Platform-WordPress-blue)
+![Languages](https://img.shields.io/badge/Multilingual-3_Languages-orange)
+![Engagement](https://img.shields.io/badge/Engagement-Paid_Contract-purple)
+![Role](https://img.shields.io/badge/Role-End--to--End_Ownership-black)
+![Collaboration](https://img.shields.io/badge/Collaboration-Founder_Level-red)
 
 ## Professional Engagement
 
