@@ -148,3 +148,20 @@ Full visual case study available on Behance:
 ## Live Platform
 
 https://pressclubs.tv
+
+---
+
+## Lessons Learned
+
+This project marked my first full-scale web platform restructuring and served as a foundational milestone in my transition into digital platform development.
+
+Key professional takeaways:
+
+- The importance of understanding information architecture before making visual changes
+- Differentiating between broken navigation and intentionally structured external routing
+- The role of CMS configuration in enabling long-term editorial autonomy
+- The impact of structured content hierarchy on usability and clarity
+- The necessity of aligning visual identity with platform purpose and content logic
+- Managing full project ownership from brand concept to technical execution
+
+This engagement marked a shift from viewing web platforms primarily as visual interfaces to understanding them as structured information systems requiring strategic, architectural thinking and operational coherence.
