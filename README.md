@@ -1,23 +1,25 @@
 # PressClubs.tv – End-to-End Platform Redevelopment & Brand Transformation
 ![Status](https://img.shields.io/badge/Status-Production-green)
 ![Platform](https://img.shields.io/badge/Platform-WordPress-blue)
-![Languages](https://img.shields.io/badge/Multilingual-3_Languages-orange)
-![Engagement](https://img.shields.io/badge/Engagement-Paid_Contract-purple)
-![Role](https://img.shields.io/badge/Role-End--to--End_Ownership-black)
-![Collaboration](https://img.shields.io/badge/Collaboration-Founder_Level-red)
+![Architecture](https://img.shields.io/badge/CMS-Configured-teal)
+![Languages](https://img.shields.io/badge/Languages-3-orange)
+![Contract](https://img.shields.io/badge/Model-Independent_Contract-purple)
 
 ## Professional Engagement
 
-PressClubs.tv is a multilingual international media initiative focused on dialogue and peace-building between Armenia and Azerbaijan.
+PressClubs.tv is a multilingual international media initiative operating within a cross-border dialogue and peace-building framework between Armenia and Azerbaijan.
+
+The platform serves as an analytical and informational publication space supporting expert dialogue and structured multilingual public communication.
 
 This was a paid professional engagement with full end-to-end ownership.
 
-I was initially commissioned to develop a new visual identity and logo concept for the initiative. Following approval of the brand direction, the scope expanded to complete architectural restructuring, CMS stabilization, and operational recovery of the WordPress platform.
+I was initially commissioned to develop a new visual identity and logo concept. Following approval of the brand direction, the engagement scope expanded to full architectural restructuring, CMS stabilization, and operational recovery of the WordPress platform.
 
-All visual, structural, technical, and CMS-related implementation was executed independently by me, in direct strategic collaboration and alignment with the co-founder.
+I acted as the sole executor of all visual, structural, technical, and CMS-related implementation, working directly in strategic alignment with the co-founder.
 
 Role: Independent Digital & Platform Lead  
-Scope: Brand Identity + Full Platform Reconstruction
+Scope: Brand Identity + Full Platform Reconstruction  
+Execution Model: Sole Contributor
 
 ---
 
